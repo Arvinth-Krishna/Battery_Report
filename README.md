@@ -2,7 +2,8 @@
 
 ## Step1:Download the zip file 
 ## Step2:Run the .bat file to Generate Battery Report
-
+while running the .bat file 
+it runs the cmd command and opens the generated battery report automatically.
 
 
 ![image](https://user-images.githubusercontent.com/49812701/89781677-66a21480-db31-11ea-94a8-23448fca9e15.png)
