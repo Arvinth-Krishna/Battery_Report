@@ -1,7 +1,7 @@
 # Battery_Report
 
 ## Step1:Download the zip file 
-## Step2:Run the bat file to Generate Battery Report
+## Step2:Run the .bat file to Generate Battery Report
 
 
 
