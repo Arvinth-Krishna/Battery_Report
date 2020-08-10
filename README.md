@@ -1,5 +1,7 @@
 # Battery_Report
 
+Download the zip file and Run the bat file to generate Battery Report
+
 
 
 ![image](https://user-images.githubusercontent.com/49812701/89781677-66a21480-db31-11ea-94a8-23448fca9e15.png)
