@@ -1,6 +1,8 @@
 # Battery_Report
 
 ## Step1:Download the zip file 
+![image](https://user-images.githubusercontent.com/49812701/89788966-93f4bf80-db3d-11ea-9cec-52fc4134c1b2.png)
+
 ## Step2:Run the .bat file to Generate Battery Report
 while running the .bat file 
 it runs the system command `powercfg/batteryreport ` 
