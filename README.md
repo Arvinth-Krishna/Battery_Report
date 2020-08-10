@@ -1,7 +1,7 @@
 # Battery_Report
 This .bat file generate Battery Report for the computer
 
-## Follow the steps to generate Battery Report
+## Follow the steps to generate Battery Report:-
 
 ### Step1:Download the zip file 
 ![image](https://user-images.githubusercontent.com/49812701/89788966-93f4bf80-db3d-11ea-9cec-52fc4134c1b2.png)
