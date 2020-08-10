@@ -1,5 +1,5 @@
 # Battery_Report
-This .bat file generate Battery Report for the computer
+This .bat file generate Battery Report for your computer
 
 ## Follow the steps to generate Battery Report:-
 
